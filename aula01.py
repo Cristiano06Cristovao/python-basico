@@ -1,0 +1,6 @@
+print("Olá, mundo!")
+print("Meu nome é Cristiano")
+print("Estou aprendendo Pyhton")
+print("Hoje é o meu primeiro dia de programação")
+print("Daqui a 12 meses estarei na Universidade")
+print("O caminho começa agora")
